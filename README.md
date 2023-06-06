@@ -66,7 +66,7 @@
 </details>
 
 <br>
-<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></h2>
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></p>
 <hr>
 <p align="center">
 <a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/-Lucas%20Pacheco-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
