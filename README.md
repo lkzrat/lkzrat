@@ -16,7 +16,7 @@
 
 - 📚 Currently studying **electrical/computer engineering**
 - 🔧 Working on a **Smart sensor software** for a scientific research
-- 🧑‍🎓 Looking for job or internship
+- 🧑‍🎓 Looking for **job** or **internship**
 </div>
 
 <br><br>
