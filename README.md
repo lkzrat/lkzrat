@@ -1,22 +1,23 @@
-<h1 align="center"><b>Hi , I'm Lucas Pacheco</b></h1>
+<h2 align="center"><b>Hi , I'm Lucas Pacheco</b></h2>
 
 <div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 <img src="https://cdna.artstation.com/p/assets/images/images/033/643/098/original/ally-gilmour-gif3.gif?1610175058" width="25%" align="right" />
 
 
+<h2><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></h2>
+
 - 📚 Currently studying **electrical/computer engineering**
 - 🔧 Working on a **Smart sensor software** for a scientific research
 - 🧑‍🎓 Looking for job or internship
-  
-<h2><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></h2>
 </div>
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -66,6 +67,7 @@
 
 <br>
 <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></h2>
+<hr>
 <p align="center">
 <a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/-Lucas%20Pacheco-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucasppmc@gmail.com"><img src="https://img.shields.io/badge/-lucasppmc@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
