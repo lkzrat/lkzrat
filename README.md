@@ -55,7 +55,7 @@
 <samp>
 <br>
 <p align="center">
-<a href="https://github.com/lkzrat/github-readme-stats">
+<a href="https://github.com/lkzrat">
     <img alt="lkzrat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lkzrat&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lkzrat&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="lkzrat" height="200px"/>
