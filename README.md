@@ -1,4 +1,4 @@
-<p align="center"><b>Hi , I'm Lucas Pacheco</b></p>
+<h1 align="center"><b>Hi , I'm Lucas Pacheco</b></h1>
 
 <div>
 
@@ -47,7 +47,7 @@
   <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
   <summary><img src = "https://cdn.pixabay.com/animation/2023/03/19/15/09/15-09-56-389_512.gif" width = 30px><b>  Github Stats</b></summary>
@@ -66,8 +66,7 @@
 </details>
 
 <br>
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></p>
-<hr>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/228/228612.png" width="20px"/><b>  Contacts</b></h2>
 <p align="center">
 <a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/-Lucas%20Pacheco-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucasppmc@gmail.com"><img src="https://img.shields.io/badge/-lucasppmc@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
