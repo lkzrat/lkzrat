@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hi , I'm Lucas Pacheco</b></h2>
+<p align="center"><b>Hi , I'm Lucas Pacheco</b></p>
 
 <div>
 
@@ -8,7 +8,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/033/643/098/original/ally-gilmour-gif3.gif?1610175058" width="25%" align="right" />
 
 
-<h2><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></h2>
+<p><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></p>
 
 - 📚 Currently studying **electrical/computer engineering**
 - 🔧 Working on a **Smart sensor software** for a scientific research
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"/><b>  Skills</b></h2>
+<p align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"/><b>  Skills</b></p>
 
 <hr>
 
