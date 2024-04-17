@@ -15,8 +15,8 @@
 <p><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></p>
 
 - 📚 Currently studying **electrical/computer engineering**
-- 🔧 Working on a **Smart sensor software** for a scientific research
-- 🧑‍🎓 Looking for **job** or **internship**
+- 🔧 Worked on a **Smart sensor software** for a scientific research
+- 🧑‍🎓 Network Engineering intern in **Mundivox**
 </div>
 
 <br><br>
