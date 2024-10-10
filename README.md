@@ -16,7 +16,7 @@
 
 - 📚 Currently studying **electrical/computer engineering**
 - 🔧 Worked on a **Smart sensor software** for a scientific research
-- 🧑‍🎓 Network Engineering intern in **Mundivox**
+- 🧑‍🎓 Network Engineering at **Mundivox**
 </div>
 
 <br><br>
