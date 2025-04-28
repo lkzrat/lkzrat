@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Lucas Pacheco</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;AI%20%7C%20ML%20%7C%20Software%20Engineering;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <div>
@@ -14,9 +14,9 @@
   
 <p><img src = "https://38.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_nb5eqskGah1qza1qzo1_500.gif" width = 50px> <b>  About me:</b></p>
 
-- 📚 Currently studying **electrical/computer engineering**
-- 🔧 Worked on a **Smart sensor software** for a scientific research
-- 🧑‍🎓 Network Engineering at **Mundivox**
+- 📚 Currently studying **Computer Engineering at UERJ**
+- 🔧 Working as an **AI & Automation Python Developer** at **Mundivox**
+- 🧑‍🎓 Conducted research as a **Software & Automation Researcher** at **CBPF**
 </div>
 
 <br><br>
@@ -27,25 +27,42 @@
 
 <img src="https://cdna.artstation.com/p/assets/images/images/050/300/326/original/pixel-odis-noface.gif?1654537408" align="right" width="35%"/>
 
-- <img src="https://cdn.iconscout.com/icon/free/png-256/free-terminal-12-433167.png?f=webp" align="left" width="20px"/><br>
-
-  <p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <p>
-
-- 🌐
-
-   <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <p>
-
-- 📙
-
-   <p><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <p>
-
-- ⚙️
-
-  <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <p>
+<ul>
+    <li><b>Programming Languages:</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    </li>
+    <li><b>Frameworks & Libraries:</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+    </li>
+    <li><b>AI & Machine Learning:</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-LangChain-FF6F00?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-LlamaIndex-FF4500?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-RAG%20Pipelines-8A2BE2?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-LLMs%20(OpenAI,%20Anthropic)-000000?style=for-the-badge"/></a>
+    </li>
+    <li><b>Databases:</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-Vector%20Databases%20(Chroma,%20Pinecone)-4CAF50?style=for-the-badge"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    </li>
+    <li><b>DevOps & Tools:</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-CI/CD%20(GitHub%20Actions)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Prompt%20Engineering-FF69B4?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Semantic%20Search-8B0000?style=for-the-badge"/></a>
+  </li>
+</ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -70,7 +87,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/lucasppmc"><img src="https://img.shields.io/badge/-Lucas%20Pacheco-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucasppmc@gmail.com"><img src="https://img.shields.io/badge/-lucasppmc@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lkz_rat"><img src="https://img.shields.io/badge/-@lkz_rat-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/lkzrat"><img src="https://img.shields.io/badge/-lkzrat-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.leetcode.com/lkz_dev"><img src="https://img.shields.io/badge/-lkz_dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://twitter.com/lkz_rat"><img src="https://img.shields.io/badge/-@lkz_rat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
